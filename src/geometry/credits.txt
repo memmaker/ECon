@@ -1,0 +1,2 @@
+// The code in these files is taken from the gruid project:
+// https://github.com/anaseto/gruid
